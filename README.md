@@ -3,7 +3,7 @@
 This repo contains the code used for the experiments in the paper
 
 <p align="center">
-  <img src="images/query_tasks.pdf" height="150">
+  <img src="images/query_tasks.png" height="450">
 </p>
 
 ## Requirements
