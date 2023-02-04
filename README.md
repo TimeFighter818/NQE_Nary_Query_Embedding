@@ -1,6 +1,8 @@
-# NQE: N-ary Query Embedding for Complex Query Answering over Hyper-relational Knowledge Graphs
+# NQE: Nary_Query_Embedding
 
 This repo contains the code used for the experiments in the paper
+**NQE: N-ary Query Embedding for Complex Query Answering over Hyper-relational Knowledge Graphs**. 
+Haoran Luo, Haihong E, Yuhao Yang, Gengxian Zhou, Yikai Guo, Tianyu Yao, Zichen Tang, Xueyuan Lin, Kaiyang Wan. AAAI 2023. [arXiv_version](https://arxiv.org/abs/2211.13469)]
 
 <p align="center">
   <img src="images/query_tasks.png" height="450">
