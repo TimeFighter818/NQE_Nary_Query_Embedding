@@ -1,6 +1,10 @@
 # NQE: N-ary Query Embedding for Complex Query Answering over Hyper-relational Knowledge Graphs
 
-This folder contains the code used for the experiments in the paper
+This repo contains the code used for the experiments in the paper
+
+<p align="center">
+  <img src="images/query_tasks.pdf" height="150">
+</p>
 
 ## Requirements
 
@@ -86,4 +90,10 @@ attention_dropout_prob  | Attention dropout ratio |
 | L_config          | Encoder config. Configuration controls whether to use node bias and edge bias in sequence encoder |
 | start_evaluation_epochs   | Epoch index to start evaluation |
 | interval_evaluation_epochs | Epoch interval for evaluation |
+
+
+## Acknowledgement
+We refer to the code of [StarQE](https://github.com/DimitrisAlivas/StarQE) and [FuzzQE](https://github.com/stasl0217/FuzzQE-code). 
+Thanks for their contributions.
+
 
